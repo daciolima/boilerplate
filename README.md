@@ -1,5 +1,13 @@
 ## Boilerplate NextJS
 
+##### Configs iniciais
+
+- editorconfig
+- Eslint
+- Prettier
+- Husky
+- lintstagedrc
+
 **Comandos format code**
 
 ```shell
