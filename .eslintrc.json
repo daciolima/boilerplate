@@ -18,7 +18,8 @@
     "plugins": [
         "@typescript-eslint",
         "react",
-        "react-hooks"
+        "react-hooks",
+        "@babel/preset-react"
     ],
     "rules": {
         "react-hooks/rules-of-hooks": "error",
