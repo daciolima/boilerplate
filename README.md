@@ -26,4 +26,7 @@ npx husky-init && npm install
 ```shell
 # Testando com o jest watch
 npm run test:watch
+
+# Commit sem passar os testes
+git commit -m "nome commit" --no-verify
 ```
