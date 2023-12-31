@@ -20,3 +20,10 @@ npx prettier src/ --write
 # Instala o husky. Verificar se os arquivos estão OK antes de dá um commit
 npx husky-init && npm install
 ```
+
+**Comandos tests Jest**
+
+```shell
+# Testando com o jest watch
+npm run test:watch
+```
