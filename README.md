@@ -8,7 +8,12 @@
 - Eslint
 - Prettier
 - Husky
+- Jest
 - lintstagedrc
+- Styled-Component
+- Storybook
+- Plop
+- CI Github Actions
 
 **Comandos format code**
 
