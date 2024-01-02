@@ -1,5 +1,7 @@
 ## Boilerplate NextJS
 
+- Estrutura para inicio de um projeto em NextJS
+
 ##### Configs iniciais
 
 - editorconfig
