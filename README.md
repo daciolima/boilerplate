@@ -1,12 +1,19 @@
 ## Boilerplate NextJS
 
+- Estrutura para inicio de um projeto em NextJS
+
 ##### Configs iniciais
 
 - editorconfig
 - Eslint
 - Prettier
 - Husky
+- Jest
 - lintstagedrc
+- Styled-Component
+- Storybook
+- Plop
+- CI Github Actions
 
 **Comandos format code**
 
