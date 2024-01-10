@@ -1,6 +1,6 @@
 ## Boilerplate NextJS
 
-- Estrutura para inicio de um projeto em NextJS
+- Library pre configuradas.
 
 ##### Configs iniciais
 
@@ -14,6 +14,13 @@
 - Storybook
 - Plop
 - CI Github Actions
+
+**Como baixar o Projeto**
+
+```shell
+# Baixar o projeto para uso.
+npx create-next-app --example https://github.com/daciolima/boilerplate-nextjs
+```
 
 **Comandos format code**
 
